@@ -5,7 +5,7 @@
  *
  * @param fields array of field objects to be displayed
  * @param values object list of values the user selected in the ui
- * 
+ *
  * @return {array} of all fields including true conditionals
  */
 
